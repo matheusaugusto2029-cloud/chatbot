@@ -6,7 +6,7 @@ Este é um projeto pessoal desenvolvido para auxiliar pessoas de acordo com seus
 
 O chatbot funciona como um apoio simples, onde o usuário informa como está se sentindo e o sistema responde com uma mensagem de conselho ou incentivo.
 
-O objetivo principal deste projeto foi praticar lógica de programação, estruturas condicionais (`if`, `else`, `elif`) e interação com o usuário utilizando Python.
+O objetivo principal deste projeto é praticar lógica de programação com estruturas condicionais (`if`, `else`, `elif`) e interação com o usuário utilizando Python.
 
 ---
 
@@ -31,8 +31,8 @@ O objetivo principal deste projeto foi praticar lógica de programação, estrut
 * Python
 * Lógica de Programação
 * Estruturas condicionais (`if`, `elif`, `else`)
-* `input()`
-* `print()`
+* `entrada e saida de dados`
+
 
 ---
 
@@ -57,10 +57,7 @@ O objetivo principal deste projeto foi praticar lógica de programação, estrut
 ## Melhorias futuras
 
 * Adicionar mais emoções
-* Criar interface gráfica
-* Salvar histórico
-* Integrar com banco de dados
-* Criar versão web futuramente
+
 
 ---
 
@@ -68,4 +65,4 @@ O objetivo principal deste projeto foi praticar lógica de programação, estrut
 
 Matheus Augusto do Nascimento Paulino Santos
 
-Estudante de Tecnologia | Python | Banco de Dados | Desenvolvimento Web
+Estudante de Ciencias da computação| Python | Banco de Dados | Desenvolvimento Web
